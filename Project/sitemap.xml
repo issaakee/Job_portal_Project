@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/174/homepage</loc>
+	<lastmod>2018-10-02T15:57:40+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/174/homepage"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/174/accueil</loc>
+	<lastmod>2018-10-02T15:57:40+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/174/accueil"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/1/search_with_content</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/1/search_with_content"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/1/rechercher_avec_contenu</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/1/rechercher_avec_contenu"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/176/search_with_results</loc>
+	<lastmod>2018-10-02T16:00:19+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/176/search_with_results"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/176/recherche_avec_resultats</loc>
+	<lastmod>2018-10-02T16:00:19+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/176/recherche_avec_resultats"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/177/search_with_filtering</loc>
+	<lastmod>2018-10-02T16:01:36+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/177/search_with_filtering"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/177/recherche_avec_filtrage</loc>
+	<lastmod>2018-10-02T16:01:36+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/177/recherche_avec_filtrage"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/178/categories</loc>
+	<lastmod>2018-10-02T16:02:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/178/categories"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/178/categories</loc>
+	<lastmod>2018-10-02T16:02:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/178/categories"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/175/map</loc>
+	<lastmod>2018-10-02T15:58:27+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/175/map"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/175/map</loc>
+	<lastmod>2018-10-02T15:58:27+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/175/map"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/6/map_job_search</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/6/map_job_search"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/6/recherche_demploi_sur_le_map</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/6/recherche_demploi_sur_le_map"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/180/map_with_filtering</loc>
+	<lastmod>2018-10-02T16:03:23+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/180/map_with_filtering"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/180/map_avec_filtrage</loc>
+	<lastmod>2018-10-02T16:03:23+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/180/map_avec_filtrage"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/181/map_with_results</loc>
+	<lastmod>2018-10-02T16:03:52+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/181/map_with_results"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/181/map_avec_resultats</loc>
+	<lastmod>2018-10-02T16:03:52+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/181/map_avec_resultats"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/5/about_us</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/5/about_us"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/5/propos</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/5/propos"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/157/articles</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/157/articles"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/157/articles</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/157/articles"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/158/test_article_2"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/158/test_article_2"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/156/article_test"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/156/article_test"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/186/company_profile</loc>
+	<lastmod>2018-10-03T14:14:24+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/186/company_profile"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/186/profil_de_la_societe</loc>
+	<lastmod>2018-10-03T14:14:24+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/186/profil_de_la_societe"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/4/contact_nous</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/4/contact_nous"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/4/contact</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/4/contact"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/en/169/companies_employees</loc>
+	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="fr"
+        href="http://localhost:443/pfe1/index.php/fr/169/companies_employees"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/fr/169/candidat_et_recruteur</loc>
+	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost:443/pfe1/index.php/en/169/candidat_et_recruteur"
+    />
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/property/75/fr/crm_software</loc>
+	<lastmod>2022-06-15T13:49:14+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://localhost:443/pfe1/index.php/property/75/en/crm_software</loc>
+	<lastmod>2022-06-15T13:49:14+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
