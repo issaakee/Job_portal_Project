@@ -1,0 +1,156 @@
+@charset 'UTF-8';
+
+/*------------------------------------------------------------------
+[Media Stylesheet]
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Min width 992px and Max width: 1199px
+2. Max width: 1140px 
+3. Max width: 992px
+4. Max width: 992px and min width: 768px
+5. Max width: 767px
+6. Max width: 480px
+7. Custom media for IE
+
+-------------------------------------------------------------------*/
+
+
+@media (min-width: 1300px){
+}
+
+@media (max-width: 1270px) {
+
+}
+
+@media (max-width: 1199px) {
+
+}
+
+
+@media (min-width: 1140px) and (max-width: 1350px) {
+
+}
+
+/*------------------------------------------------------------------
+[1. Min width 992px and Max width: 1199px ]
+*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/*------------------------------------------------------------------
+[2. Max width: 1140px ]
+*/
+@media (max-width: 1140px) {
+}
+
+/*------------------------------------------------------------------
+[3. Max width: 991px ]
+*/
+@media (max-width: 991px) {
+
+    .jcompany-card .options .opt-light {
+        white-space: initial;
+    }
+
+}
+
+/*------------------------------------------------------------------
+[4. Max width: 992px and min width: 768px]
+*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/*------------------------------------------------------------------
+[5. Max width: 767px]
+*/
+@media (max-width: 767px) {
+    .widget-search-top .c_purpose-tablet {
+        position: relative;
+        top: 0;
+        left: 0;
+        padding: 0 15px;
+        padding-bottom: 10px;
+    }
+    
+    .widget-search-top .c_purpose-tablet:after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+    
+    .widget-search-top .c_purpose-tablet li {
+        background: #686868;
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .c_purpose-tablet li.active,
+    .c_purpose-tablet li:hover {
+        background: #da3743;
+    }
+		
+		.card-job {
+    height: initial;
+		
+		-webkit-flex-direction: column;
+    flex-direction: column;
+}
+.card-job-carousel .btn-nav, .card-job .btn-nav {
+
+    display: none;
+}
+
+.bootstrap-select > .dropdown-menu:before {
+    left: 0;
+}
+
+
+
+}
+
+/*------------------------------------------------------------------
+[6. Max width: 540px]
+*/
+
+@media (max-width:600px) {
+}
+
+/*------------------------------------------------------------------
+[6. Max width: 576px]
+*/
+
+@media (max-width:576px) {
+    .jcompany-card .thumbnail {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+/*------------------------------------------------------------------
+[6. Max width: 540px]
+*/
+
+@media (max-width:540px) {
+}
+
+
+/*------------------------------------------------------------------
+[7. Custom media for IE]
+*/
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+}
+
+@media screen and (max-width:1140px) and (-ms-high-contrast: active) and (-ms-high-contrast: none) {
+}
+
+@media screen and (max-width:768px) and (-ms-high-contrast: active) and (-ms-high-contrast: none) {
+}

@@ -1,0 +1,385 @@
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+  text-align: right;
+}
+
+.nav-bar .flex-row > .logo-container {
+    text-align: right;
+}
+
+.widget-jpreview .jpreview-card .jpreview-caption .body,
+.widget-jpreview .jpreview-card .jpreview-header .title,
+.social-list,
+.job-form,
+.wraper-row .column-sidebar,
+.wraper-row .column-content,
+.grid-post,
+.list-pins,
+.list-pins li a,
+.w-posts-list .item .body,
+.widget-jsummary > *:not(.widget-header),
+.widget-rsm,
+.section-title.left,
+.widget-geo-search,
+.item-listings-ext,
+.section-top-search .flex-row .form-group,
+.section-top-search .job-form .form-group .control-label,
+.widget .widget-header .title,
+.widget-list,
+.widget-title .title,
+.footer .footer-top,
+.thumbnail.thumbnail-article,
+.banner .banner-container .title,
+.alert-item .header .title,
+.alert-item .options-list,
+.results-list .grid-content,
+.bootstrap-select.btn-group .dropdown-menu.inner,
+.bootstrap-select.btn-group .dropdown-toggle .filter-option,
+.section-flat-search .flex-row .form-group {
+    text-align: right;
+}
+
+.bootstrap-select .dropdown-toggle::after {
+    right: initial;
+    left: 12px;
+    position: absolute;
+    top: 50%;
+    margin-top: -2px;
+}
+
+.widget-jpreview .jpreview-card .jpreview-caption .thumbnail,
+.jcompany-card .options .opt,
+.jcompany-card .thumbnail,
+.joptions-dl dd,
+.widget-rsm .rsm-header .preview,
+.item-listings-ext .options > span,
+.results-list .item .options > span {
+    margin-right: 0;
+    margin-left: 25px;
+}
+
+.f_widget .list-f-nav a i {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.grid-post .header .meta-tags span i,
+.grid-post .header .meta-tags span,
+.w-posts-list .item .preview {
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.form-group-subscribe .btn-subscribe {
+    float: left;
+}
+
+.widget-list li input {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.no-js .owl-carousel, 
+.owl-carousel.owl-loaded {
+    direction: initial;
+}
+
+.preview-ads .btn.btn-clear i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.widget-geo-search .geo-search-notification i {
+    margin-left: 35px;
+    margin-right: 0;
+}
+
+.pwidget-reviews .list-reviews .thumbnail {
+    margin-left: 30px;
+    margin-right: 0;
+}
+
+.pwidget-reviews .list-reviews .body a.reply i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.text-left {
+    text-align: right!important;
+}
+
+.nav-bar .nav.default-menu {
+    padding: 0;
+}
+
+.top-bar-login ul li {
+    float: right;
+}
+
+.top-bar-login i {
+    margin-left: 2px;
+    margin-right: 0;
+}
+
+.top-bar-login ul li:not(:last-child) {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.dropdown-toggle::after {
+    margin-right: .255em;
+}
+
+.form-group-location .locationautocomplete ~ .fa-crosshairs {
+    right: initial;
+    left: 18px;
+}
+
+.bootstrap-select .dropdown-toggle::after {
+    margin-top: -4px;
+}
+
+.section-flat-search .job-form .form-group .control-label {
+    padding-right: 15px;
+    padding-left: 0;
+}
+
+.lang-manu .dropdown-menu a img {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.card-job {
+    direction: rtl;
+}
+
+.card-job .card-job-preview {
+    border-radius: 0 25px 25px 0;
+}
+
+.card-job .card-job-title,
+.card-job .card-job-caption .card-job-body {
+    text-align: right;
+}
+
+.job-form input[type=checkbox], .job-form input[type=radio] {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.input-group.input-with-search .input-group-addon {
+    border-radius: .25rem 0 0 .25rem;
+}
+
+.input-group>.form-control:not(:last-child) {
+    border-radius: 0 .25rem .25rem 0;
+}
+
+.documents-list a img {
+    margin-left: 4px;
+    margin-right: 0;
+}
+
+.widget-rsm .rsm-list.inline li {
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.widget-rsm .rsm-list.inline li i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.widget-rsm .rsm-header .description > span {
+    margin-right: 0;
+    margin-left: 25px;
+}
+
+.widget-social .social-list {
+    text-align: center;
+}
+
+.panel-expert .image_expert {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.modal .modal-header .close {
+    margin-left: 0;
+}
+
+.sign-form .flex-group .right {
+    text-align: left;
+}
+
+.sign-form .flex-group .left {
+    text-align: right;
+}
+
+.sign-form .flex-group .checkbox-inline input {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.lang-tabs .pull-right {
+    float: left !important;
+}
+
+.nav.nav-tabs.lang-tabs {
+    padding: 0;
+}
+
+#main h5 span.checkbox-visible {
+    float: left;
+    font-size: 12px;
+}
+
+#main .fileinput-button {
+    float: right;
+    margin-right: 0 !important;
+    margin-left: 4px;
+}
+
+#main .files-list-u li {
+    float: right;
+}
+
+/*------------------------------------------------------------------
+[Media Stylesheet]
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Min width 1140px and Max width: 1350px 
+2. Min width 992px and Max width: 1199px
+3. Max width: 1140px 
+4. Max width: 992px
+5. Max width: 900px
+6. Max width: 992px and min width: 768px
+7. Max width: 767px
+8. Max width: 575px
+9. Max width: 540px
+10. Max width: 480px
+11. Custom media for IE
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[1. Min width 1140px and Max width: 1350px ]
+*/
+
+@media (min-width: 1140px) and (max-width: 1350px) {
+}
+
+/*------------------------------------------------------------------
+[2. Min width 992px and Max width: 1199px ]
+*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/*------------------------------------------------------------------
+[3. Max width: 1140px ]
+*/
+@media (max-width: 1140px) {
+}
+
+/*------------------------------------------------------------------
+[4. Max width: 991px ]
+*/
+@media (max-width: 991px) {
+    
+}
+
+/*------------------------------------------------------------------
+[5. Max width: 900px ]
+*/
+@media (max-width: 900px) {
+    
+}
+
+
+/*------------------------------------------------------------------
+[6. Max width: 992px and min width: 768px]
+*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/*------------------------------------------------------------------
+[7. Max width: 767px]
+*/
+@media (max-width: 767px) {
+.card-job .card-job-preview {
+    border-radius: 15px 15px 0 0;
+}
+
+}
+
+/*------------------------------------------------------------------
+[8. Max width: 575px]
+*/
+
+@media (max-width:575px) {
+    
+		.collapse.default-menu-collapse:not(.show) {
+        display: none;
+    }
+		
+		.default-menu-collapse {
+				height: 100% !important;
+				min-height: 100% !important;
+				bottom: 0;
+				flex-basis: initial;
+		}
+		
+    .default-menu-collapse {
+        left: inittal;
+        right: 0;
+    }
+    
+    .nav-bar .nav.default-menu {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .default-menu-collapse.show .mobile-toggler {
+        right: initial;
+        left: 10px;
+    }
+    
+}
+
+
+/*------------------------------------------------------------------
+[9. Max width: 540px]
+*/
+
+@media (max-width:540px) {
+
+}
+
+/*------------------------------------------------------------------
+[10. Max width: 480px]
+*/
+
+@media (max-width:480px) {
+
+}
+
+/*------------------------------------------------------------------
+[11. Custom media for IE]
+*/
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+}
+
+@media screen and (max-width:1140px) and (-ms-high-contrast: active) and (-ms-high-contrast: none) {
+}
+
+@media screen and (max-width:768px) and (-ms-high-contrast: active) and (-ms-high-contrast: none) {
+}
